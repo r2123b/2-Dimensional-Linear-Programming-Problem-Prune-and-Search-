@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8663D46D-6CD1-4131-BACB-6AE2E6AB98A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LinearProgrammingProblem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A15E9243D94A2B9E59BD6CF19ACA8AEA803D810</key>
+		<string>https://github.com/r2123b/2-Dimensional-Linear-Programming-Problem-Prune-and-Search-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LinearProgrammingProblem/LinearProgrammingProblem.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A15E9243D94A2B9E59BD6CF19ACA8AEA803D810</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/r2123b/2-Dimensional-Linear-Programming-Problem-Prune-and-Search-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A15E9243D94A2B9E59BD6CF19ACA8AEA803D810</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A15E9243D94A2B9E59BD6CF19ACA8AEA803D810</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Linear_Programming</string>
+		</dict>
+	</array>
+</dict>
+</plist>
