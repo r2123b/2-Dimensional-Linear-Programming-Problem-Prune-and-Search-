@@ -20,7 +20,7 @@ using namespace std;
 
 void Initial_Input(vector<LinearFuntion> &FunctionList)
 {
-    FILE *fp = fopen("/AlgorithmTestData/FunctionInput3.txt", "r");
+    FILE *fp = fopen("/AlgorithmTestData/FunctionInputTEST4.txt", "r");
     if (!fp) {
         cout<<"File cannot be found!!\n";
     }
@@ -142,6 +142,8 @@ int main(int argc, const char * argv[])
     if (Ymin == NEGATIVE_INFINITY) {
         cout<<"Negative infinity!\n";
     }
+    else if(Ymin <= -90)
+        cout<<"No flexible solution!\n";
     else {
         cout << "Result : "<<Ymin<< endl;
     }
